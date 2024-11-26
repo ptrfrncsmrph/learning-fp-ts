@@ -27,7 +27,7 @@
     "babel-jest": "^24.9.0",
     "babel-tape-runner": "^3.0.0",
     "big.js": "^6.1.1",
-    "cross-fetch": "^3.0.5",
+    "cross-fetch": "^3.1.5",
     "d3": "^5.15.0",
     "date-fns": "^2.14.0",
     "eslint-plugin-jest": "^22.20.1",
