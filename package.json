@@ -47,7 +47,7 @@
     "io-ts-types": "^0.5.11",
     "jest": "^24.9.0",
     "lodash": "^4.17.15",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "monocle-ts": "^2.3.11",
     "newtype-ts": "^0.3.2",
